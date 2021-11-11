@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Art from the Doge community.",
+            "heading": "Much Wow Gallery",
             "heading_size": "medium"
           }
         },
@@ -51,14 +51,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "About Much Wow Gallery",
+            "heading": "About Us",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Our aim at Much Wow Gallery is to showcase art from the Doge community and help spread awareness about.<\/p>"
           }
         },
         "button": {
